@@ -1,6 +1,2 @@
-import { sum, minus } from './module';
-
-export default {
-  sum,
-  minus,
-};
+export { default as StackArray } from './stack/StackArray';
+export { default as StackMap } from './stack/StackArray';
